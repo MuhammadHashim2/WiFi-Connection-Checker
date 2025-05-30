@@ -11,8 +11,8 @@ A lightweight web application that detects and displays the current internet con
 ```
 WiFi-Connection-Checker/
 ├── index.html
-├── style.css
-└── script.js
+├── index.css
+└── index.js
 ```
 
 ## 🚀 Features
@@ -50,9 +50,6 @@ WiFi-Connection-Checker/
 ![Offline Status](https://github.com/MuhammadHashim2/WiFi-Connection-Checker/blob/main/screenshots/offline.png)  
 *Offline status indicator*
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## 🤝 Contributing
 
