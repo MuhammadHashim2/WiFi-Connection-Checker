@@ -1,0 +1,38 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: cornsilk;
+}
+button{
+    padding: 10px;
+    cursor: pointer;
+    color: white;
+}
+.connect{
+    background-color: rgb(48, 235, 48);
+    border: none;
+    border-radius: 4px;
+}
+div{
+    width: 300px;
+    margin-right: 10px;
+    margin-left: 40%;
+    padding: 15px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+.connected{
+    background-color: rgb(173, 248, 173);
+    color: green;
+    display: none;
+}
+.nconnected{
+    background-color: rgb(255 186 186);
+    color: red;
+    display: none;
+}
+.nconnect{
+    background-color: rgb(235, 48, 48);
+    border: none;
+    border-radius: 4px;
+}
