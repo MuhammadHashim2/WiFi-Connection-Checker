@@ -42,14 +42,6 @@ WiFi-Connection-Checker/
 
 3. Open `index.html` in your preferred web browser.
 
-## 📸 Screenshots
-
-![Online Status](https://github.com/MuhammadHashim2/WiFi-Connection-Checker/blob/main/screenshots/online.png)  
-*Online status indicator*
-
-![Offline Status](https://github.com/MuhammadHashim2/WiFi-Connection-Checker/blob/main/screenshots/offline.png)  
-*Offline status indicator*
-
 
 ## 🤝 Contributing
 
